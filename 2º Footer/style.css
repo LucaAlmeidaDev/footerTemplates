@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');/* import da logo font */
+/* Ajustes Gerais no código */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+@media screen and (max-width: 480px) {
+    footer{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+    footer .col1{
+        margin-top: 5px;
+        margin-bottom: 0;
+    }
+    footer .col2 {
+        margin-top: 5px;
+    }
+    footer .col3 {
+        margin-top: 5px;
+    }
+    footer .col4 {
+        margin-top: 5px;
+    }
+    footer .col5 {
+        margin-top: 5px;
+    }
+}
+/* Ajustes Gerais no código */
+footer{
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+    display: flex;
+    height: auto;
+    background-color: #16263e;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+footer .logo{
+    -webkit-text-stroke: 0.6px #0062ff;
+    font-family: 'Inspiration', cursive;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 20px;
+}
+footer h3{
+    color: #fff;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+footer a{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #A1A6AD;
+}
+footer p{
+    color: #A1A6AD;
+}
+.col1{
+    margin: 70px 0;
+}
+.col2{
+    flex-direction: column;
+    margin-top: 100px;
+    display: flex;
+    gap: 5px;
+}
+.col3{
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 100px;
+    display: flex;
+}
+.col4{
+    flex-direction: column;
+    gap: 5px;
+    display: flex;
+    margin-top: 100px;
+}
+.col5{
+    margin-top: 100px;
+}
+.social-row{
+    gap: 0.7rem;
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+}
+.social{
+    color: #fff;
+    height: 2rem;
+    width: 2rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    background-color: #0062ff;
+    border-radius: 50%;
+}
