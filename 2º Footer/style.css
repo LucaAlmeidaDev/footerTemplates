@@ -40,7 +40,6 @@ footer{
     display: flex;
     height: auto;
     background-color: #16263e;
-    display: flex;
     justify-content: center;
     gap: 2rem;
 }

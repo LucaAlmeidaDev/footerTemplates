@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');/* import da logo font */
+/* Ajustes Gerais no código */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+a{
+    color: inherit;
+    text-decoration: none;
+}
+footer{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    bottom: 0;
+    width: 100%;
+}
+.footer-top{
+    background-color: #1CC4A0;
+    width: 100%;
+    height: 60px;
+}
+.footer-claro{
+    background-color: #031B25;
+    width: 100%;
+    height: 250px;
+    display: flex;
+}
+.col1{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.col1 p{
+    width: 150px;
+}
+.col2{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.col3{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.col4{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.col5{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+
+.footer-escuro{
+    background-color: #141414;
+    width: 100%;
+    height: 40px;
+    display: flex;
+}
+.footer-escuro p{
+    color: #C2C2C2;
+    margin: auto;
+}
