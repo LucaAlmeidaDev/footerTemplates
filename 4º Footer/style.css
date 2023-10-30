@@ -104,7 +104,7 @@ footer{
 .footer-claro a{
     color: #C2C2C2;
 }
-.col1{
+.col{
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -114,21 +114,6 @@ footer{
     color: #5D3FD3;
     font-family: Inspiration;
     font-size: 50px;
-}
-.col2{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-.col3{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-.col4{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
 }
 .footer-escuro{
     background-color: #141414;
