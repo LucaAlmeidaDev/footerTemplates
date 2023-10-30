@@ -9,6 +9,54 @@ a{
     color: inherit;
     text-decoration: none;
 }
+@media screen and (max-width: 480px){
+    .social{
+        font-size: 15px;
+    }
+    #footer1{
+        font-size: 12px;
+    }
+    #footer-claro{
+        flex-direction: column;
+        display: flex;
+        gap: 20px;
+    }
+    #col2{
+        flex-direction: row;
+        font-size: 14px;
+    }
+    #col3{
+        flex-direction: row;
+        font-size: 14px;
+    }
+    #col4{
+        flex-direction: row;
+        font-size: 14px;
+    }
+}   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 footer{
     position: absolute;
     display: flex;
@@ -61,7 +109,7 @@ footer{
     flex-direction: column;
     gap: 15px;
 }
-.col1 h2{
+.col1 h1{
     -webkit-text-stroke: 1px #5D3FD3;
     color: #5D3FD3;
     font-family: Inspiration;
@@ -82,15 +130,6 @@ footer{
     flex-direction: column;
     gap: 15px;
 }
-.col5{
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-}
-
-
-
-
 .footer-escuro{
     background-color: #141414;
     width: 100%;
