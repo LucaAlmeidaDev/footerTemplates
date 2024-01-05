@@ -4,8 +4,8 @@
 
 O projeto foi criado em conjunto por dois amigos com o intuito de facilitar os nossos trabalhos, mas com o tempo, decidimos atualizar o mesmo e deixar aberto para o público  🎉.
 
-Os templates são 100% livres para o uso, a única requisição sendo dar os créditos pelo footer na página, mas pode mesmo ser até um comentário no código.
-O código utiliza TailwindCss e Remix icons para deixar tanto seu visual quanto seu código agradável para uso.
+Os templates são 100% livres para o uso comercial e pessoal.
+O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequado dos footers.
 
 <h2 align='center'>Layout Web</h2>
 
