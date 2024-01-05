@@ -11,13 +11,13 @@ O código utiliza TailwindCss e Remix icons para deixar tanto seu visual quanto 
 
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.25.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.26.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.05.52.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.47.37.jpeg"/></p>
 
 
 <h2 align='center'>Layout Mobile</h2>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.56.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.50.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.06.23.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
 
 
 
