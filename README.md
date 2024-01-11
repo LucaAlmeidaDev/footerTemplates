@@ -19,6 +19,7 @@ O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequa
 <h2 align='center'>Layout Mobile</h2>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.56.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.50.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/image.png"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.15.04.jpeg"/></p>
 
