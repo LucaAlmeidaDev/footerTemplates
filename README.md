@@ -4,20 +4,21 @@
 
 O projeto foi criado em conjunto por dois amigos com o intuito de facilitar os nossos trabalhos, mas com o tempo, decidimos atualizar o mesmo e deixar aberto para o público  🎉.
 
-Os templates são 100% livres para o uso, a única requisição sendo dar os créditos pelo footer na página, mas pode mesmo ser até um comentário no código.
-O código utiliza TailwindCss e Remix icons para deixar tanto seu visual quanto seu código agradável para uso.
+Os templates são 100% livres para o uso comercial e pessoal.
+O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequado dos footers.
 
 <h2 align='center'>Layout Web</h2>
 
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.25.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.26.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.05.52.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-10%20at%2016.18.07.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.47.37.jpeg"/></p>
 
 
 <h2 align='center'>Layout Mobile</h2>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.56.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.50.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.06.23.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
 
 
 
