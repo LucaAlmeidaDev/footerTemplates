@@ -23,6 +23,14 @@ O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequa
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.15.04.jpeg"/></p>
 
+### Como usar o projeto?
+
+Para utilizar o projeto, é necessário ter tanto o Remix Icons quanto o TailWind para que o footer funcione corretamente, além de ter que copiar o código do mesmo.
+O código que deve ser copiado é aquele que está entre comentários dentro do código, segue o exemplo:
+<p><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-12%20at%2016.04.15.jpeg"/></p>
+
+O usuário terá que instalar o tailwind e o remix icons separadamente para utilizar os modelos, mas, se for possível, ele pode também utilizar as dependências que já foram deixadas dentro do código, segue o exemplo:
+<p><img src='https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-12%20at%2016.11.12.jpeg'/></p>
 
 
 <h2 align='center'>Tecnologias Utilizadas</h2>
