@@ -14,6 +14,7 @@ O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequa
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-10%20at%2016.18.07.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.47.37.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.14.42.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-22%20at%2016.10.55.jpeg"/></p>
 
 
 <h2 align='center'>Layout Mobile</h2>
@@ -22,6 +23,7 @@ O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequa
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/image.png"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
 <p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.15.04.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-22%20at%2016.09.57.jpeg"/></p>
 
 ### Como usar o projeto?
 
