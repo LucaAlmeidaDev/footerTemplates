@@ -9,22 +9,22 @@ O código utiliza e requer TailwindCss e Remix icons para o funcionamento adequa
 
 <h2 align='center'>Layout Web</h2>
 
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.25.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.26.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-10%20at%2016.18.07.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.47.37.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.14.42.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-22%20at%2016.10.55.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-23%20at%2022.42.56.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer1.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer2.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer3.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer4.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer6.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer7.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer8.jpeg"/></p>
 
 
 <h2 align='center'>Layout Mobile</h2>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.03.56.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2014.04.50.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/image.png"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-05%20at%2015.48.05.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-11%20at%2015.15.04.jpeg"/></p>
-<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/WhatsApp%20Image%202024-01-22%20at%2016.09.57.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer1Mob.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer2Mob.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer3Mob.png"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer4Mob.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer6Mob.jpeg"/></p>
+<p align="center"><img src="https://github.com/LucaAlmeidaDev/Assets/blob/Main/Assets/Footer7Mob.jpeg"/></p>
 
 ### Como usar o projeto?
 
